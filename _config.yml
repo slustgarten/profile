@@ -1,20 +1,20 @@
 # Site settings
 name: Saul Lustgarten
-description: "entrepreneur. mba @ mit"
+description: "entrepreneur/investor. mba @ mit"
 url: "slustgarten.github.io"
 
 
 # Delete the lines you don't need
 # about 5 elements are recomended
+linkedin_username: slustgarten
 github_username:  slustgarten
 facebook_username: lustgarten
 twitter_username: slustgarten
-linkedin_username: slustgarten
 instagram_username:  slustgarten
-stack_of_username: your_stack_overflow_account_id_number_goes_here
-reddit_username: your_reddit_username_goes_here
+#stack_of_username: your_stack_overflow_account_id_number_goes_here
+#reddit_username: your_reddit_username_goes_here
 medium_username:  slustgarten
-blog_url: "/blog"
+#blog_url: "/blog"
 email: slustgarten@gmail.com
 public_key_url: ""
 
